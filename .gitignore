@@ -1,0 +1,9 @@
+node_modules/
+.env
+playwright-report/
+test-results/
+tests/generated/*.spec.js
+models-list.json
+test-api.js
+save-models.js
+.DS_Store

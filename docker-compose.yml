@@ -1,0 +1,8 @@
+version: '3.8'
+services:
+  qa-framework:
+    build: .
+    volumes:
+      - ./playwright-report:/app/playwright-report
+    environment:
+      - GOOGLE_API_KEY=${GOOGLE_API_KEY}
