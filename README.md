@@ -2,6 +2,7 @@
 
 > **The future of Testing is here.** An E2E testing framework that uses **Google Gemini AI** to automatically generate Playwright test cases from any URL.
 
+![CI Pipeline](https://github.com/FerDVaz09/-ai-qa-framework./actions/workflows/test.yml/badge.svg)
 [![Playwright](https://img.shields.io/badge/Playwright-v1.44.0-28a745?logo=playwright)](https://playwright.dev/)
 [![Gemini API](https://img.shields.io/badge/AI-Gemini_Flash-blue?logo=google-gemini)](https://ai.google.dev/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -71,4 +72,9 @@ This project uses `.env` files for secret management. **Never commit your `.env`
 
 ---
 
-Made with ❤️ by [Ferxxos]
+## 📸 Sample Report
+![Playwright HTML Report](docs/report-screenshot.png)
+
+---
+
+Made with ❤️ by [FerDVaz09](https://github.com/FerDVaz09)
